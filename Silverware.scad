@@ -1,4 +1,5 @@
 // The silverware STLs could use some cleaning up.  They are not symmetrical.  They could be smoother.
+// licensed under the Creative Commons - Attribution - Non-Commercial license.
 
 wall = 4;
 height = 40;

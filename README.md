@@ -7,3 +7,7 @@ The silverware STLs could use some cleaning up.  They are not symmetrical.  They
 ![Image Description](Img/photo_2025-02-15_16-13-58.jpg)
 ![Image Description](Img/photo_2025-02-15_16-14-06.jpg)
 
+
+
+licensed under the Creative Commons - Attribution - Non-Commercial license.
+
